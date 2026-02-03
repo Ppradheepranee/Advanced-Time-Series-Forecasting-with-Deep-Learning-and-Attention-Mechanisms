@@ -1,0 +1,2 @@
+# Advanced-Time-Series-Forecasting-with-Deep-Learning-and-Attention-Mechanisms
+Project Overview This project implements an end‑to‑end pipeline for multivariate time series forecasting using a Transformer‑based deep learning model with attention mechanisms. We benchmark against traditional models (ARIMA, Exponential Smoothing) and interpret the learned attention weights to understand temporal feature importance.
