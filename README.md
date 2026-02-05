@@ -1,4 +1,5 @@
 Advanced Time Series Forecasting with Deep Learning and Attention Mechanisms
+![Time_series_DeepLearning](https://github.com/user-attachments/assets/07583a13-01cf-4132-9557-de013a9ed915)
 
 1. Project Overview
 This project implements a complete end-to-end pipeline for multivariate time series forecasting using Transformer-based deep learning with attention mechanisms. The implementation uses the ETTh1 (Electricity Transformer Temperature - hourly) dataset to predict future electricity consumption patterns.
